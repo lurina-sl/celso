@@ -1,0 +1,24 @@
+# Node and runtime artifacts
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# SQLite
+*.sqlite
+*.sqlite3
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# temporary
+.tmp/
+tmp/
